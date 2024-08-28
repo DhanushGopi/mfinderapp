@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mfinderapp/static/css/main.04cc7762.css",
+    "main.js": "/mfinderapp/static/js/main.c6abf21b.js",
+    "static/js/453.94164111.chunk.js": "/mfinderapp/static/js/453.94164111.chunk.js",
+    "index.html": "/mfinderapp/index.html",
+    "main.04cc7762.css.map": "/mfinderapp/static/css/main.04cc7762.css.map",
+    "main.c6abf21b.js.map": "/mfinderapp/static/js/main.c6abf21b.js.map",
+    "453.94164111.chunk.js.map": "/mfinderapp/static/js/453.94164111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cc7762.css",
+    "static/js/main.c6abf21b.js"
+  ]
+}
